@@ -1,3 +1,3 @@
 setTimeout(function(){
-  window.location.href = 'homepage-url';
+  window.location.href = 'http://example.com';
 }, 5 * 1000);
