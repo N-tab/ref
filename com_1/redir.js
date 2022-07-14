@@ -1,1 +1,1 @@
-window.location.replace("http://aminoapps.com/invite/8U0NM30JW6");
+window.location.replace("http://aminoapps.com/c/SOVA_COMMUNITY");
