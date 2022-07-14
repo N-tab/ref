@@ -1,3 +1,3 @@
 setTimeout(function(){
-  window.location.replace("http://random.org");
-}, 5 * 1000);
+window.location.href = "http://random.org";
+}, 1 * 1000);
